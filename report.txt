@@ -1,0 +1,4 @@
+The sales analysis showed that the United Kingdom had the highest sales among all countries. 
+Some products were sold more than others and contributed a major part of the total revenue. 
+The monthly sales trend showed that sales increased during certain periods, which indicates higher customer demand at those times. 
+Overall, the project helped in understanding customer buying behavior, popular products, and overall business performance using data analysis and visualization.
